@@ -17,10 +17,10 @@
 
 À part de ma bonne humeur, j'ai aussi aqui quelques skills en bossant:
 
-- Suite Adobe (Photoshop, Illustratir et Indesign)
+- Suite Adobe (Photoshop, Illustrator, Indesign et XD)
 - Figma
-- Blender (modelisation 3D)
-- Du code aussi évidemment: HTML, CSS
+- Blender (modélisation 3D)
+- Du code aussi évidemment: HTML, CSS, JavaScript (Vue.js)
 
 Certain projets que j'ai fait:
 
